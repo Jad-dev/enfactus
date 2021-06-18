@@ -1447,6 +1447,9 @@ RESPONSIVE
     font-size : 15px;
     line-height : 25px ;
   }
+  #promotion .left-image {
+    margin-bottom: 10px;
+  }
   .team-text {
     margin-left : 10px;
     margin-right : 10px;
@@ -1454,9 +1457,10 @@ RESPONSIVE
   }
   .team-text img {
     margin-bottom : 15px;
+    max-width: 200px;
   }
   .team-text h3 { 
-    margin-bottom : 10px;
+    margin-bottom : 7px;
 
   }
   .center-heading h2 {
